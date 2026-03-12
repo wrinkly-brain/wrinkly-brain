@@ -24,7 +24,7 @@ This app was built with React and JavaScript. It uses role-based authentication 
 
 #### [Live RPG Site](https://rpg-site.netlify.app)
 
-This website is a work in progress web game built with HTML, CSS, and JavaScript. It features the basic game mechanics of a turn-based RPG. I plan to continue adding features and improving the gameplay.
+This website is a prototype for a web game. It features the basic game mechanics of a turn-based RPG. I plan on working off what I've learned from this project and my continued learning about web development to build a more polished and engaging game.
 
 ### [Task Manager API](https://github.com/wrinkly-brain/Task-Management-API)
 
