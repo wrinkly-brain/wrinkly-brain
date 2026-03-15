@@ -19,7 +19,7 @@ I'm a Full Stack Engineer currently studying at Atlas Coding School in Tulsa, Ok
 
 This app was built with React and JavaScript. It uses role-based authentication to only allow admin users to manage conference sessions. Regular users can only view sessions.
 
-### [RPG Site](https://github.com/wrinkly-brain/AtlasX-React-App)
+### [RPG Site](https://github.com/wrinkly-brain/rpg-site)
 <img src="RPG-Site-Img.png" alt="RPG Site" width="600" height="300">
 
 #### [Live RPG Site](https://rpg-site.netlify.app)
